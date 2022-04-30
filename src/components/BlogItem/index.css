@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.image-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+.topic-title-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.avatar-author-container {
+  display: flex;
+  flex-direction: row;
+}
+.avatar-size {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+.image-size {
+  height: 300px;
+  width: 50%;
+  border-radius: 10px;
+  margin-right: 15px;
+}

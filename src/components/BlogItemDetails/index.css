@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+
+.blog-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
+.avatar-author {
+  display: flex;
+  flex-direction: row;
+}
+.avatar-author-container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+.image-2 {
+  width: 100%;
+  height: 70%;
+}
+.img-content {
+  display: flex;
+  flex-direction: column;
+}
